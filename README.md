@@ -1,1 +1,1 @@
-# lab1-arithmetic
+# lab2-arithmetic
